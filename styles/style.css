@@ -3,7 +3,7 @@
     font-family: Arial, sans-serif;
     color:snow; */
     
-}
+/* } */
 nav {
     background-color:black;
     padding: 10px;
@@ -59,6 +59,22 @@ nav {
     font-size: 60px;
     font-weight: 200;
 }
+.container {
+    display: flex;
+}
+
+.grade {
+    display: flex;
+}
+.testdiv {
+    background-color: aqua;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    text-align: center;
+
+}
 
 .project {
     background-color: indianred;
@@ -110,7 +126,7 @@ table {
 
 th {
     background-color: tan;
-    bac
+    
 }
 
 td {
@@ -127,15 +143,15 @@ th:hover {
 
 /* th, td {
     border-right:  solid tan;
-    border-bottom: solid tan; */
-}
+    border-bottom: solid tan;
+} */
 
 /* h2 {
     color:snow;
     background-color: brown;
     padding: 10px;
-    border-top: ridge; */
-}
+    border-top: ridge;
+} */
 
 /* p {
     color:snow;
