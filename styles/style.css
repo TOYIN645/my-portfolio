@@ -1,9 +1,9 @@
-/* body {
+body {
     background-color: #008080;
     font-family: Arial, sans-serif;
     color:snow; */
     
-/* } */
+/* }
 nav {
     background-color:black;
     padding: 10px;
@@ -11,7 +11,7 @@ nav {
     margin-left: 20px;
     margin-bottom: 20px;
     margin-right: 20px;  */
-}
+/* } */
 .navLink {
     padding: 7px;
     background-color: red;
@@ -23,7 +23,7 @@ nav {
     color: black;
 }
 
-.home {
+/* .home {
     background-color: darkcyan;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: normal;
@@ -58,7 +58,7 @@ nav {
     font-style: italic;
     font-size: 60px;
     font-weight: 200;
-}
+} */
 .container {
     display: flex;
 }
@@ -76,7 +76,7 @@ nav {
 
 }
 
-.project {
+/* .project {
     background-color: indianred;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: lighter;
@@ -109,7 +109,7 @@ nav {
     font-family: cursive;
     font-style: italic;
     font-size: 60px;
-    font-weight: 200;
+    font-weight: 200; */
 }
 table {
     border: solid ghostwhite;
@@ -151,16 +151,16 @@ th:hover {
     background-color: brown;
     padding: 10px;
     border-top: ridge;
-} */
+} */ */
 
 /* p {
     color:snow;
 
-} */
+}
 ul {
     /* list-style-type: none; */
-    list-style: square inside url("");
-}
+    /* list-style: square inside url("");
+} */
 li {
     padding: 10px 0px 10px 0px;
 }
